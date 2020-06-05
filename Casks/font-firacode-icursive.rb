@@ -1,8 +1,8 @@
 cask 'font-firacode-icursive' do
-  version :latest
+  version '1.0.0'
   sha256 :no_check
   
-  url 'https://github.com/sainnhe/icursive-nerd-font/tree/master/Fira%20Code%20iCursive%20S12'
+  url 'https://github.com/marc-brouard/homebrew-mjb-casks/releases/download/v#{version}/'
   name 'Fira Code iCursive S12'
   homepage 'https://www.sainnhe.dev/post/icursive-nerd-font-preview/'
   
