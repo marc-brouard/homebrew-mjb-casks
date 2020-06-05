@@ -1,4 +1,4 @@
-cask 'font-fireacode-icursive' do
+cask 'font-firacode-icursive' do
   version :latest
   sha256 :no_check
   
