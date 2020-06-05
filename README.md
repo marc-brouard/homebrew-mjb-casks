@@ -1,2 +1,2 @@
-# mjb-homebrew-casks
+# homebrew-mjb-casks
 Personal Homebrew casks
